@@ -1,0 +1,4 @@
+Falta poner:
+    yolov3.cfg
+    yolov3.weights
+se puede sacar de aqui: https://github.com/Ank-Cha/Social-Distancing-Analyser-COVID-19
