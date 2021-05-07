@@ -1,0 +1,4 @@
+falta poner:
+    mask_detector.model
+    MobileNetSSD_deploy.caffemodel
+    MobileNetSSD_deploy.prototxt
