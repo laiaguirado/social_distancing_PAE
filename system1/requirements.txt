@@ -2,3 +2,4 @@ falta poner:
     mask_detector.model
     MobileNetSSD_deploy.caffemodel
     MobileNetSSD_deploy.prototxt
+se puede sacar de aqui: https://github.com/mailrocketsystems/AIComputerVision
